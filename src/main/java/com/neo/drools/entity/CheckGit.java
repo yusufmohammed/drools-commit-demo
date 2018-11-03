@@ -9,21 +9,8 @@ public class CheckGit implements java.io.Serializable {
     static final long serialVersionUID = 1L;
 
     public CheckGit() {
-	System.err.println("Temp");
-
-
-System.err.println("Temp");
-
-
-System.err.println("Temp");
-
-System.err.println("Temp");
-System.err.println("Temp");
-
-System.err.println("Temp");
-System.out.println("Temp");
-
-    }
+	System.err.println("Commit");
+	}
 
 
 
