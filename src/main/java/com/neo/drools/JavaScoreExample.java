@@ -13,6 +13,8 @@ public class JavaScoreExample {
     public static void main(String[] args) throws Exception {  
           
         List<Order> orderList = getInitData();
+        
+        
         for (int i=0; i<orderList.size(); i++){  
             Order order = orderList.get(i);  
             if (order.getAmout() <= 100){  
