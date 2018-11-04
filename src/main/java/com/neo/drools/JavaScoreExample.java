@@ -13,7 +13,7 @@ public class JavaScoreExample {
     public static void main(String[] args) throws Exception {  
           
         List<Order> orderList = getInitData();
-        
+        System.err.println("Test");
         
         for (int i=0; i<orderList.size(); i++){  
             Order order = orderList.get(i);  
