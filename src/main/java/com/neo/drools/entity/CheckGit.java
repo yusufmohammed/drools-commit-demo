@@ -14,6 +14,7 @@ public class CheckGit implements java.io.Serializable {
 		System.err.println("Ensure that this is doen");
 		System.err.println("One more check");
 		System.err.println("two more check");
+		System.out.println("four more check");
 	}
 
 
