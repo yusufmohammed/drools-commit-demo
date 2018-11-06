@@ -24,6 +24,9 @@ public class DroolsScoreExample {
      * @param args
      * @throws Exception
      */
+     public DroolsScoreExample(){
+         System.err.println("DroolsScoreExample");
+     }
     public static final void main(final String[] args) throws Exception{
         // KieServices is the factory for all KIE services
         KieServices ks = KieServices.Factory.get();
