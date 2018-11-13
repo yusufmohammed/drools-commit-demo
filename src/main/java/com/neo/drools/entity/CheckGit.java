@@ -39,6 +39,7 @@ public class CheckGit implements java.io.Serializable {
 		System.out.println("Eighth Time Check time check");
 		
 System.out.println("Just Git Check");
+System.err.println("cross check one more time to make sure it is working as expected");
 		
 	}
 
