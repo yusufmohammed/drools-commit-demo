@@ -26,6 +26,7 @@ public class DroolsScoreExample {
      */
      public DroolsScoreExample(){
          System.err.println("DroolsScoreExample");
+          System.err.println("DroolsScoreExample2");
      }
     public static final void main(final String[] args) throws Exception{
         // KieServices is the factory for all KIE services
