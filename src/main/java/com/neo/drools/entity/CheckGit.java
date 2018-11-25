@@ -43,6 +43,7 @@ System.err.println("cross check one more time to make sure it is working as expe
 System.err.println("Post-commit hook");
 System.err.println("Sync check ");	
 System.err.println("Sync check 2");
+System.err.println("Important change ,has to go to PROD");
 	}
 
 
