@@ -41,7 +41,8 @@ public class CheckGit implements java.io.Serializable {
 System.out.println("Just Git Check");
 System.err.println("cross check one more time to make sure it is working as expected");
 System.err.println("Post-commit hook");
-System.err.println("Sync check ");		
+System.err.println("Sync check ");	
+System.err.println("Sync check 2");
 	}
 
 
