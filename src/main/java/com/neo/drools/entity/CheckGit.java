@@ -44,6 +44,8 @@ System.err.println("Post-commit hook");
 System.err.println("Sync check ");	
 System.err.println("Sync check 2");
 System.err.println("Important change ,has to go to PROD");
+
+System.err.println("PROD 2");
 	}
 
 
